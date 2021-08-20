@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "@bn3t/native-hello-world": {
+      "signature": "e2b136633f88ab7c01af21a44a13e2bd",
+      "file": true
+    }
+  }
+}
